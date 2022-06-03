@@ -1,0 +1,6 @@
+dbt-core
+copier
+acryl-datahub[datahub-rest]
+# data-pipelines-cli[docker,datahub,gcs,s3]
+jupyterlab-git
+jupyter-server-proxy
