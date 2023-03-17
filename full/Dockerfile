@@ -1,4 +1,4 @@
-FROM dbeaver/cloudbeaver:22.0.5 AS builder-dbeaver
+FROM dbeaver/cloudbeaver:22.3.5 AS builder-dbeaver
 FROM jupyter/base-notebook:python-3.8.8
 ENV NB_USER=jovyan
 ENV NB_UID=1000
